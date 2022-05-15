@@ -5,6 +5,11 @@ appsettings.json
 *.dll
 
 ###################
+launch.json
+tasks.json
+###################
+
+###################
 # compiled source #
 ###################
 *.com
