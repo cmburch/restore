@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDOJDM9WeBUgxVotCLK4OjT7g01NNmD8IHBjWVgNGBAGh92ba5+C859w0nl7V6GHz/FZGjWuAvdFjfltYD9xtA==",
+  "success": true,
+  "projectFilePath": "/Users/charlesburch/Desktop/projects/restore/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/charlesburch/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/charlesburch/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/charlesburch/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/charlesburch/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/charlesburch/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/charlesburch/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
