@@ -3,11 +3,12 @@ bin
 appsettings.json
 *.db
 *.dll
-
 ###################
 launch.json
 tasks.json
 ###################
+
+
 
 ###################
 # compiled source #
@@ -84,3 +85,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+API/appsettings.json
